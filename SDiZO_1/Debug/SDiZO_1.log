@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Array.cpp
+  Heap.cpp
+  List.cpp
+  RBTree.cpp
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_1\sdizo_1\rbtree.cpp(18): warning C4309: '=': truncation of constant value
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_1\sdizo_1\rbtree.cpp(19): warning C4309: '=': truncation of constant value
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_1\sdizo_1\rbtree.cpp(20): warning C4309: '=': truncation of constant value
+  SDiZO_1.cpp
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_1\sdizo_1\sdizo_1.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kamil\documents\visual studio 2017\projects\sdizo_1\sdizo_1\sdizo_1.cpp(602): warning C4101: 'num_count': unreferenced local variable
+  Generating Code...
+  SDiZO_1.vcxproj -> C:\Users\Kamil\Documents\Visual Studio 2017\Projects\SDiZO_1\Debug\SDiZO_1.exe
